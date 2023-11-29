@@ -1,0 +1,24 @@
+.kard {
+  width: 180px;
+  height: 100px;
+  background-color: darkcyan;
+  margin-top: 40px;
+  margin-left: 20px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.card__logo {
+  font-size: 20px;
+  padding: 10px;
+  color: aqua;
+}
+
+.card_raqam {
+  font-size: 12px;
+  color: blue;
+  margin: 0;
+  padding: 0;
+  padding-left: 10px;
+}
+
